@@ -4,3 +4,4 @@ Las demas clases son auxiliares(leaderboard, settings,etc)
 
 El juego sigue un patron de enemigos son 10 enemigos normales y luego el boss (solo son 3 bosses), entonces al derrotar un boss obtienes una vida, y el patron sigue hasta que pierda el usuario 
 
+https://drive.google.com/file/d/1BcorIJ9-Bx3aWqBJwOnQ0iesxSANDMc1/view?usp=sharing
